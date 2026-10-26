@@ -1,0 +1,4 @@
+MotionKit PP (c) Motionsfly. All rights reserved.
+This repository only hosts release downloads and update information.
+Using MotionKit PP requires a valid license purchased on Gumroad.
+Copying, editing, reselling or redistributing the plugin is not allowed.
