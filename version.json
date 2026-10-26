@@ -1,0 +1,16 @@
+{
+  "version": "2.13.0",
+  "date": "2026-10-26",
+  "notes": [
+    "Fixed: panel could open black after restarting the computer",
+    "Fixed: license was lost when the computer name changed",
+    "License works offline after activation",
+    "Activation works even when Premiere Pro is blocked in the firewall",
+    "Automatic updates from GitHub",
+    "Loading screen, safe mode and Reset & reload instead of a black panel"
+  ],
+  "download_url": "https://github.com/Motionsfly/motionkit_pp/releases/download/v2.13.0/MotionKit_PP_v2.13.0.zip",
+  "page_url": "https://github.com/Motionsfly/motionkit_pp/releases/latest",
+  "sha256": "017e4a2d6fc53a4531f6d34e57a20f4fc83fe6b43a7c60de18aa598ae9f10064",
+  "mandatory": false
+}
